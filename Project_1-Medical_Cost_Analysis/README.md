@@ -1,4 +1,4 @@
-# Global AI Hub Transfer Learning Projesi
+# Global AI Hub Medikal Maliyet Projesi
 Bu proje Global AI Hub'ın düzenlemiş olduğu AI Summer Camp bootcamp'i sonunda grup olarak yapılmıştır. Projenin amacı bir veri seti üzerinde çeşitli görselleştirme ve makine öğrenimi teknikleri kullanarak analiz yapmaktır. 
 
 ## Gerekli Materyaller
