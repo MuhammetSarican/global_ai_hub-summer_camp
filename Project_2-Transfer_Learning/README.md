@@ -1,1 +1,1 @@
-#Global AI Hub Transfer Learning Projesi
+# Global AI Hub Transfer Learning Projesi
